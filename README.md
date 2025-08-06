@@ -19,5 +19,3 @@ This project is a text prediction model built using **LSTM (Long Short-Term Memo
 
 ---
 
-## 📁 Repository Structure
-
