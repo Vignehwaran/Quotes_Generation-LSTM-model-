@@ -1,6 +1,5 @@
-tensorflow
-streamlit
-numpy
-pandas
-pickle
-time 
+tensorflow==2.13.0
+streamlit==1.25.0
+numpy==1.24.4
+pandas==1.5.3
+
